@@ -36,7 +36,7 @@ after Download and take some time on it i found this
 now let decode it 
 ![](Screenshot_2026-05-12_03-31-24.png)
 
-the answer is : **198.51.100.24**
+the answer is : **198.x.x.x.x** 
 
 Question 5 : **In the same file (i.e., logs-wazuh.zip), identify the user who executed the suspicious PowerShell command. The format is domain\user.**
 
